@@ -1,4 +1,4 @@
-# Project Context: my-profile
+<!-- # Project Context: my-profile
 
 ## Project Overview
 This is a modern Next.js web application, likely for a personal profile or portfolio. It leverages the latest React 19 features and Next.js App Router for high-performance and efficient web development.
@@ -31,4 +31,9 @@ The following commands are defined in `package.json`:
 - **App Router:** Follow the Next.js App Router conventions (layouts, templates, loading/error states).
 - **Styling:** Use Tailwind CSS utility classes for styling.
 - **Import Aliases:** Use the `@/` prefix to import modules from the project root (e.g., `import MyComponent from "@/components/MyComponent"`).
-- **Standard Formatting:** Adhere to ESLint and Prettier (if configured) for consistent code style.
+- **Standard Formatting:** Adhere to ESLint and Prettier (if configured) for consistent code style. -->
+
+1. 계획, task, walkthrough는 한글로 작성해줘.
+2. 항상 한국어로 대답해줘.
+3. 개발이 끝나고 난 후에는 빌드 명령어로 검증해줘.
+4. 커밋 메시지는 상세하게 한글로 작성해줘
